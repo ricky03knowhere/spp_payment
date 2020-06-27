@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_siswa" value="name:nisn;datatype:int,name:nis;datatype:int,name:nama;datatype:string,name:id_kelas;datatype:int,name:alamat;datatype:string,name:no_telp;datatype:int,name:id_spp;datatype:int" />
+	<infoitem key="UD_petugas" value="name:id_petugas;datatype:int,name:username;datatype:string,name:password;datatype:string,name:nama_petugas;datatype:string,name:level;datatype:string" />
+	<infoitem key="UD_user" value="name:id_petugas;datatype:int,name:username;datatype:string,name:password;datatype:string,name:nama_petugas;datatype:string,name:level;datatype:string" />
+</info>
